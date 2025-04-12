@@ -1,3 +1,9 @@
+
+### 🌐 Live Demo
+
+👉 [Check the Live App Here](https://ai-email-genarator.vercel.app/)
+
+
 # 🧠 AI Email Generator
 
 A full-stack AI-powered email generator built with the MERN stack and **Google Gemini 2.0 Flash API**. Generate professional, personalized emails at the click of a button!
